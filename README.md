@@ -20,3 +20,7 @@ This task helped me understand the basics of poster design, visual hierarchy, co
 
  Note
 This is a concept poster created for design practice. The event details are fictional.
+
+ Poster Preview
+
+![Tech Talks 2026 Poster](tech-talks-poster.png)
